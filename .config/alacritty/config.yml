@@ -1,0 +1,11 @@
+background_opacity: 0.7
+
+font:
+  bold:
+    family: UbuntuMono Nerd Font
+  italic:
+    family: UbuntuMono Nerd Font
+  normal:
+    family: UbuntuMono Nerd Font
+    style: Regular
+  size: 14
